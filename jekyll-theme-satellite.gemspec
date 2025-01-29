@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-satellite"
+  spec.name          = ""
   spec.version       = "1.4.0"
-  spec.authors       = ["Yankos"]
-  spec.email         = ["byanko55@gmail.com"]
+  spec.authors       = [""]
+  spec.email         = [""]
 
-  spec.summary       = "Satellite - Jekyll blog theme"
-  spec.homepage      = "https://github.com/byanko55/jekyll-theme-satellite"
+  spec.summary       = ""
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select {
