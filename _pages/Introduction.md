@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Introduction"
 
 date: "2025-01-01"
 thumbnail: "/assets/img/teach.jpg"
