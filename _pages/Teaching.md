@@ -2,7 +2,7 @@
 title: "Teaching"
 
 date: "2025-01-01"
-thumbnail: "/assets/img/thumbnail/sample.png"
+thumbnail: "/assets/img/teach.jpg"
 bookmark: true
 ---
 
