@@ -1,25 +1,14 @@
 ---
-title: "Markdown from A to Z"
-tags:
-    - user manual
-    - markdown
-    - writing format
-date: "2023-09-05"
+title: "Teaching"
+
+date: "2025-01-01"
 thumbnail: "/assets/img/thumbnail/sample.png"
 bookmark: true
 ---
 
-# Headings
+# Winter2025
 ---
-
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (`<h3>`), use three number signs (e.g., `### My Header`).
-
-
-|Markdown|HTML|Rendered Output|
-|---|---|---|
-|\# Header 1|<h1>Header 1</h1>|<span class="sh1">Header 1</span>|
-|\#\# Header 2|<h2>Header 2</h2>|<span class="sh2">Header 2</span>|
-|\#\#\# Header 3|<h3>Header 3</h3>|<span class="sh3">Header 3</span>|
+[Algorithms Design](https://github.io/alireza-sazegar/Algorithm1403)
 
 # Emphasis
 ---
