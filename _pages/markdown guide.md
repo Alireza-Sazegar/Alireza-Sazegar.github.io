@@ -8,7 +8,7 @@ bookmark: true
 
 # Winter2025
 ---
-[Algorithms Design](https://github.io/alireza-sazegar/Algorithm1403)
+[Algorithms Design](https://github.com/Alireza-Sazegar/Algorithms1403)
 
 # Emphasis
 ---
