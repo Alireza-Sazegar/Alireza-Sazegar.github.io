@@ -3,7 +3,7 @@ var baseurl = document.querySelector('meta[name="baseurl"]').content;
 document.addEventListener('DOMContentLoaded', function(){
     // Init theme
     let currentTheme = localStorage.getItem('theme');
-    let isDarkMode = false;
+    let isDarkMode = true;
 
     if (currentTheme === 'dark'){
         isDarkMode = true;
